@@ -5,7 +5,6 @@ System:
 Python35
 UCM11.5
 
-
 AddPhone.py
 Add Cisco 8865 with specific options
 Add phones from CSV file
